@@ -1,16 +1,16 @@
-### Hi there 👋
+### Привет! 👋
 
-<!--
-**Uhmilochka/Uhmilochka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Меня зовут Наталья Мельникова.
 
-Here are some ideas to get you started:
+Я начинающий аналитик с 15-летним опытом экономиста и филологическим образованием. 👩‍🏫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+В 2023 г. окончила учебный курс Data Analyst в ЯндексПрактикуме и в настоящее время ищу работу, где смогу объединить имеющийся опыт экономического анализа и IT-технологии.
+
+👩‍💻Используемый стек:
+
+Python, Pandas, Matplotlib, NumPy, Seaborn, SQL, PostgreSQL, Tableau.
+
+
+
+
+
